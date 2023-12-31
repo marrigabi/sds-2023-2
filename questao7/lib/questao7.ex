@@ -49,22 +49,6 @@ defmodule Questao7 do
       System.halt(0)
     end
 
-    def translacao do
-
-    end
-
-    def escala  do
-
-    end
-
-    def rotacao do
-
-    end
-
-    def reflexao do
-
-    end
-    
   end
 
   Sistema.principal()
